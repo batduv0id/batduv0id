@@ -17,6 +17,11 @@
 
 <hr>
 
+<div>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Henriluiz&show_icons=true&theme=dracula">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriluiz&layout=compact&langs_count=6&theme=dracula">
+</div>
+
 
 
 <div style="text-align: center;" align="center">
